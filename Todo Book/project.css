@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: burlywood;
+}
+
+.container {
+    width: 95%;
+    margin: auto;
+}
+
+.card {
+    width: 50%;
+    background-color: cornflowerblue;
+    margin: auto;
+}
+
+.card-header {
+    padding: 9px;
+    background-color: royalblue;
+    text-align: center;
+    color: #fff;
+}
+
+.card-body {
+    padding: 9px 14px;
+}
+
+.form-group label {
+    display: block;
+    color: #fff;
+}
+
+.form-group {
+    margin-bottom: 11px;
+}
+
+.form-control {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+.btn {
+    padding: 11px;
+    border-style: none;
+    color: #fff;
+    background-color: lightcoral;
+}
+
+.book-content {
+    padding: 14px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table tr th,
+.table tr td {
+    border: 1px solid black;
+    padding: 6px;
+}
+
+i.fa.fa-trash {
+    font-size: 19px;
+    color: red;
+    padding: 8px;
+    margin-left: 11px;
+}
+
+i.fa.fa-edit {
+    font-size: 22px;
+    color: lightcoral;
+    padding: 6px;
+    margin-left: 11px;
+}
